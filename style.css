@@ -1,0 +1,47 @@
+.drawwText{
+    color: #1746A2;
+}
+.result{
+    font-family: 'Merriweather Sans', sans-serif;
+    width: 9%;
+    font-size: 1.1pc;
+    border: solid 1px black;
+    color:#777777;
+    overflow: hidden;
+    height: 70px;
+    padding-top: 5px;
+}
+canvas{
+    color: black;
+}
+body{
+    text-align: center;
+    align-content: center;
+    background-color: rgb(252, 231, 0);
+}
+.main{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+.results-container{
+    margin-top: 10px;
+    text-align: center;
+
+}
+table{
+    text-align: center;
+    padding: 10px;
+}
+
+
+.button{
+    width: 20%;
+    height: 40px;
+    font-size: x-large;
+    font-family: 'Merriweather Sans', sans-serif;
+    color:rgb(0, 0, 0);
+    background: transparent;
+    border:solid 1px rgb(0, 0, 0);
+    cursor: pointer;
+}
